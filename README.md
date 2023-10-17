@@ -21,7 +21,7 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
 <p align="center">
 <a href="https://linkedin.com/in/danielor92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielor92" height="30" width="60" /></a>
 <a href="https://discord.gg/users/349603976921513985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="349603976921513985" height="30" width="60"/></a>
-<a href='mailto:danielospinar@gmail.com'><p style='width:'60px'>📩</p></a>
+<a href='mailto:danielospinar@gmail.com'>📩</a>
 </p>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; max-height: 4*60px;">
 <h3 align="center">¿Tecnologias y herramientas que uso ?</h3>
