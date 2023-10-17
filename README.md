@@ -17,7 +17,7 @@ Si alguna vez te preguntas cómo equilibro esta dualidad de programador intrépi
 Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de desarrollo, ¡no dudes en buscarme! Juntos podemos conquistar el mundo real y el mundo virtual, un debug a la vez. 🚀😄
 
 <p align="center">📫: <strong>danielospinar@gmail.com</strong></p> 
-<hr>
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; max-height: 4*60px;">
 <h3 align="center">¿Tecnologías y herramientas que uso ?</h3>
 <br/>
