@@ -16,10 +16,10 @@ Si alguna vez te preguntas cómo equilibro esta dualidad de programador intrépi
 
 Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de desarrollo, ¡no dudes en buscarme! Juntos podemos conquistar el mundo real y el mundo virtual, un debug a la vez. 🚀😄
 
-<h1 align="center" style='font-size:'15px'>📫: danielospinar@gmail.com</h1> 
+<h3 align="center" style='font-size:'15px'>📫: danielospinar@gmail.com</h3> 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; max-height: 4*60px;">
-<h3 align="center">¿Tecnologías y herramientas que uso ?</h3>
+<h1 align="center">¿Tecnologías y herramientas que uso ?</h1>
 <br/>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-height: 4*60px;>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
