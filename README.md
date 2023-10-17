@@ -16,12 +16,13 @@ Puede que no sea un samurai en el mundo real, pero en FFXIV, soy el samurai de l
 Si alguna vez te preguntas cómo equilibro esta dualidad de programador intrépido y aventurero virtual, no dudes en preguntar. ¡Estoy siempre aquí para intercambiar consejos de codificación o para hablar de las últimas hazañas de mi personaje en el juego! 💻🎮
 
 Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de desarrollo, ¡no dudes en buscarme! Juntos podemos conquistar el mundo real y el mundo virtual, un debug a la vez. 🚀😄
+
+<p align="center">📫: danielospinar@gmail.com</p> 
 <hr>
 <h1 align="center" style="text-decoration:none">Conectate conmigo!:</h1>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
 <a href="https://linkedin.com/in/danielor92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielor92" height="30" width="60" /></a>
 <a href="https://discord.gg/users/349603976921513985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="349603976921513985" height="30" width="60"/></a>
-<a href="mailto:danielospinar@gmail.com"><img src='https://cdn-icons-png.flaticon.com/512/8160/8160192.png' width="30px height="30px"/></a>
 </p>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; max-height: 4*60px;">
 <h3 align="center">¿Tecnologias y herramientas que uso ?</h3>
