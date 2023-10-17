@@ -1,4 +1,4 @@
-<h1 align="center" style="text-decoration:none">Hi 👋, I'm Daniel Ospina Ramirez</h1>
+<h1 align="center" style="text-decoration:none">Hola 👋, Mi nombre es Daniel Ospina Ramirez</h1>
 <h3 align="center">Conocido en github como CodeLudovic</h3>
 <p align="center">Apasionado <strong>Full Stack Developer</strong> amante a los videojuegos</p>
 <hr>
