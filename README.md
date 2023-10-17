@@ -18,7 +18,7 @@ Si alguna vez te preguntas cómo equilibro esta dualidad de programador intrépi
 Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de desarrollo, ¡no dudes en buscarme! Juntos podemos conquistar el mundo real y el mundo virtual, un debug a la vez. 🚀😄
 <hr>
 <h1 align="center" style="text-decoration:none">Conectate conmigo!:</h1>
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
 <a href="https://linkedin.com/in/danielor92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielor92" height="30" width="60" /></a>
 <a href="https://discord.gg/users/349603976921513985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="349603976921513985" height="30" width="60"/></a>
 <a href="mailto:danielospinar@gmail.com"><img src='https://cdn-icons-png.flaticon.com/512/8160/8160192.png' width="30px height="30px"/></a>
