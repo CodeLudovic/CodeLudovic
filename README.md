@@ -20,7 +20,7 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
 <p align="center">📫: <strong>danielospinar@gmail.com</strong></p> 
 <hr>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; max-height: 4*60px;">
-<h3 align="center">¿Tecnologias y herramientas que uso ?</h3>
+<h3 align="center">¿tecnologías y herramientas que uso ?</h3>
 <br/>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-height: 4*60px;>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
