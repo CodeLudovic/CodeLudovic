@@ -43,4 +43,4 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
 </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codeludovic&show_icons=true&locale=en&layout=compact" alt="codeludovic" /></p>
+<h1 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codeludovic&show_icons=true&locale=en&layout=compact" alt="codeludovic" /></h1>
