@@ -7,12 +7,22 @@
 
 Originario de Cali, Colombia. Mi pasión por los videojuegos, en especial sagas como Final Fantasy y los juegos de rol, ha sido una constante en mi vida. Además, no puedo dejar de mencionar a mi leal compañero, Rocket, mi perro, quien comparte nombre con el icónico mapache de los Guardianes de la Galaxia. Mi viaje en el mundo del desarrollo me ha llevado a convertirme en un FullStack Developer. He adquirido conocimientos y experiencia en proyectos personales y colaborativos, utilizando tecnologías y frameworks como JavaScript, React.Js, Angular, Express, Redux, Node.Js, y más. También he explorado el mundo de PHP, he incursionado en el framework Laravel en su versión 6 y he emprendido proyectos personales en el framework Ionic y TypeScript.
 
+<h1>🎯 Que hago? :</h1> 
+
+Mi vida consiste en un constante tira y afloja con las llaves del teclado, donde mi cerebro es el DJ que mezcla HTML, CSS, JavaScript y otros lenguajes. Pero, como todo héroe, también necesito un descanso, y es ahí cuando me convierto en un Guerrero de la Luz en el reino de Eorzea. 🗡️✨
+
+Puede que no sea un samurai en el mundo real, pero en FFXIV, soy el samurai de la diversión y el aventurero en busca de los tesoros más épicos. 🏰💰
+
+Si alguna vez te preguntas cómo equilibro esta dualidad de programador intrépido y aventurero virtual, no dudes en preguntar. ¡Estoy siempre aquí para intercambiar consejos de codificación o para hablar de las últimas hazañas de mi personaje en el juego! 💻🎮
+
+Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de desarrollo, ¡no dudes en buscarme! Juntos podemos conquistar el mundo real y el mundo virtual, un debug a la vez. 🚀😄
+
 <p align="center"> 📫 Mail: danielospinar@gmail.com <p/> 
 <hr>
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/danielor92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielor92" height="30" width="40" /></a>
-<a href="https://discordapp.gg/users/349403976921513985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="349403976921513985" height="30" width="40" /></a>
+<a href="https://discord.gg/users/349403976921513985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="349403976921513985" height="30" width="40"/></a>
 </p>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; max-height: 4*40px;">
 <h3 align="center">Languages and Tools:</h3>
