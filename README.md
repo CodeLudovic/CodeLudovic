@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Ospina Ramirez</h1>
-<h4 align="center">Apasionado <strong>Full Stack Developer</strong> amante a los videojuegos</h4>
-<h4 align="center">Conocido en github como <strong>CodeLudovic</strong>strong></h4>
+<p align="center">Apasionado <strong>Full Stack Developer</strong> amante a los videojuegos</p>
+<h4 align="center">Conocido en github como <strong>CodeLudovic</strong></h4>
 <hr>
 - 💬 Acerca de mi:
 **Originario de Cali, Colombia. Mi pasión por los videojuegos, en especial sagas como Final Fantasy y los juegos de rol, ha sido una constante en mi vida. Además, no puedo dejar de mencionar a mi leal compañero, Rocket, mi perro, quien comparte nombre con el icónico mapache de los Guardianes de la Galaxia. Mi viaje en el mundo del desarrollo me ha llevado a convertirme en un FullStack Developer. He adquirido conocimientos y experiencia en proyectos personales y colaborativos, utilizando tecnologías y frameworks como JavaScript, React.Js, Angular, Express, Redux, Node.Js, y más. También he explorado el mundo de PHP, he incursionado en el framework Laravel en su versión 6 y he emprendido proyectos personales en el framework Ionic y TypeScript.**
