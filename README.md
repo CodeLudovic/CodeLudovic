@@ -1,16 +1,23 @@
 <h1 align="center">Hi 👋, I'm Daniel Ospina Ramirez</h1>
-<h3 align="center">Apasionado Full Stack Developer amante a los videojuegos</h3>
-<h3 align="center">Conocido en github como CodeLudovic</h3>
+<h4 align="center">Apasionado <strong>Full Stack Developer</strong> amante a los videojuegos</h4>
+<h4 align="center">Conocido en github como <strong>CodeLudovic</strong>strong></h4>
 <hr>
 - 💬 Acerca de mi:
 **Originario de Cali, Colombia. Mi pasión por los videojuegos, en especial sagas como Final Fantasy y los juegos de rol, ha sido una constante en mi vida. Además, no puedo dejar de mencionar a mi leal compañero, Rocket, mi perro, quien comparte nombre con el icónico mapache de los Guardianes de la Galaxia. Mi viaje en el mundo del desarrollo me ha llevado a convertirme en un FullStack Developer. He adquirido conocimientos y experiencia en proyectos personales y colaborativos, utilizando tecnologías y frameworks como JavaScript, React.Js, Angular, Express, Redux, Node.Js, y más. También he explorado el mundo de PHP, he incursionado en el framework Laravel en su versión 6 y he emprendido proyectos personales en el framework Ionic y TypeScript.**
+<br/>
 
-<p align="center"> 📫 Mail **danielospinar@gmail.com** <p/> 
+- 💬 Que hago o me gusta hacer?:
+**En general en mi dia a dia me gusta realizar apps nuevas para mi reel, usualmente casi todos los dias codeo, debo decir que codear con musica electronica es mi pasion, no se, me hypea y me ayuda a codear mas rapido**
+**En mis tiempos libres me gusta realizar apps nuevas para mi reel, usualmente casi todos los dias codeo, debo decir que codear con musica electronica es mi pasion, no se, me hypea y me ayuda a codear mas rapido**
+  
+<br/>
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danielor92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielor92" height="30" width="40" /></a>
 <a href="https://discord.gg/349403976921513985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="349403976921513985" height="30" width="40" /></a>
+📫: danielospinar@gmail.com
 </p>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 <h3 align="left">Languages and Tools:</h3>
