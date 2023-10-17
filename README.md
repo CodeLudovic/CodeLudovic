@@ -19,8 +19,8 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
 
 <p align="center"> 📫 Mail: danielospinar@gmail.com <p/> 
 <hr>
-<h1 align="left">Connect with me:</h1>
-<p align="left">
+<h1 align="center">Connect with me:</h1>
+<p align="center">
 <a href="https://linkedin.com/in/danielor92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielor92" height="30" width="60" /></a>
 <a href="https://discord.gg/users/349603976921513985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="349603976921513985" height="30" width="60"/></a>
 </p>
