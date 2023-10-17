@@ -5,7 +5,7 @@
 
 <h1 style="text-decoration:none">💬 Acerca de mi:</h1> 
 
-Originario de Cali, Colombia. Mi pasión por los videojuegos, en especial sagas como Final Fantasy y los juegos de rol, ha sido una constante en mi vida. Además, no puedo dejar de mencionar a mi leal compañero, Rocket, mi perro, quien comparte nombre con el icónico mapache de los Guardianes de la Galaxia. Mi viaje en el mundo del desarrollo me ha llevado a convertirme en un FullStack Developer. He adquirido conocimientos y experiencia en proyectos personales y colaborativos, utilizando tecnologías y frameworks como JavaScript, React.Js, Angular, Express, Redux, Node.Js, y más. También he explorado el mundo de PHP, he incursionado en el framework Laravel en su versión 6 y he emprendido proyectos personales en el framework Ionic y TypeScript.
+Originario de Cali, Colombia. Mi pasión por los videojuegos, en especial sagas como Final Fantasy y los juegos de rol, ha sido una constante en mi vida. Además, no puedo dejar de mencionar a mi leal compañero, Rocket, mi perro, quien comparte nombre con el icónico mapache de los Guardianes de la Galaxia. Mi viaje en el mundo del desarrollo me ha llevado a convertirme en un <strong>FullStack Developer</strong>. He adquirido conocimientos y experiencia en proyectos personales y colaborativos, utilizando tecnologías y frameworks como <strong>JavaScript, React.Js, Angular, Express, Redux, Node.Js, y más </strong>. También he explorado el mundo de PHP, he incursionado en el framework Laravel en su versión 6 y he emprendido proyectos personales en el framework Ionic y TypeScript.
 
 <h1 style="text-decoration:none">🎯 ¿Que hago? :</h1> 
 
