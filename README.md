@@ -9,7 +9,7 @@ Originario de Cali, Colombia. Mi pasión por los videojuegos, en especial sagas 
 
 <h1 style="text-decoration:none">🎯 ¿Que hago? :</h1> 
 
-Mi vida consiste en un constante tira y afloja con las llaves del teclado, donde mi cerebro es el DJ que mezcla HTML, CSS, JavaScript y otros lenguajes. Pero, como todo héroe, también necesito un descanso, y es ahí cuando me convierto en un Guerrero de la Luz en el reino de Eorzea. 🗡️✨
+Mi vida consiste en un constante tira y afloja con las llaves del teclado, donde mi cerebro es el DJ que mezcla <strong>HTML, CSS, JavaScript y otros lenguajes</strong>. Pero, como todo héroe, también necesito un descanso, y es ahí cuando me convierto en un Guerrero de la Luz en el reino de Eorzea. 🗡️✨
 
 Puede que no sea un samurai en el mundo real, pero en FFXIV, soy el samurai de la diversión y el aventurero en busca de los tesoros más épicos. 🏰💰
 
@@ -17,7 +17,7 @@ Si alguna vez te preguntas cómo equilibro esta dualidad de programador intrépi
 
 Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de desarrollo, ¡no dudes en buscarme! Juntos podemos conquistar el mundo real y el mundo virtual, un debug a la vez. 🚀😄
 
-<p align="center">📫: danielospinar@gmail.com</p> 
+<p align="center">📫: <strong>danielospinar@gmail.com</strong></p> 
 <hr>
 <h1 align="center" style="text-decoration:none">Conectate conmigo!:</h1>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
