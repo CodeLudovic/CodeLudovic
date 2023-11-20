@@ -18,11 +18,10 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
 
 <h3 align="center" style='font-size:'15px'>📫: danielospinar@gmail.com</h3> 
 
-<h1 style="text-align: center; color: #333;">Proyectos Destacados</h1>
 
 <h1 style="text-align: center; color: #333;">Proyectos Destacados</h1>
 
-  <div style="display: flex; justify-content: space-around; margin-top: 20px;">
+  <div style="display: flex; justify-content: space-around; flex-direction: row; margin-top: 20px;">
 
 <div style="text-align: center; background-color: #fff; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
       <a href="https://educastream.vercel.app/" style="text-decoration: none; color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
