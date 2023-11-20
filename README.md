@@ -17,6 +17,72 @@ Si alguna vez te preguntas cómo equilibro esta dualidad de programador intrépi
 Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de desarrollo, ¡no dudes en buscarme! Juntos podemos conquistar el mundo real y el mundo virtual, un debug a la vez. 🚀😄
 
 <h3 align="center" style='font-size:'15px'>📫: danielospinar@gmail.com</h3> 
+<style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f8f8f8;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+
+    .project-table {
+      display: flex;
+      justify-content: space-around;
+      margin-top: 20px;
+    }
+
+    .project-cell {
+      text-align: center;
+      background-color: #fff;
+      border-radius: 8px;
+      padding: 15px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .project-image {
+      max-width: 100%;
+      border-radius: 6px;
+    }
+
+    .project-link {
+      display: block;
+      margin-top: 10px;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+  </style>
+
+  <h1>Proyectos Destacados</h1>
+
+  <div class="project-table">
+    <div class="project-cell">
+      <a href="https://educastream.vercel.app/" class="project-link">
+        <img src="https://whitebeartech.com.co/cdn/educastream.png" alt="educaStream" class="project-image" width="250">
+        <p>educaStream</p>
+      </a>
+    </div>
+
+    <div class="project-cell">
+      <a href="https://frontend-videogames.vercel.app/" class="project-link">
+        <img src="https://whitebeartech.com.co/cdn/videogamesApp.jpg" alt="videoGamesApp" class="project-image" width="250">
+        <p>videoGamesApp</p>
+      </a>
+    </div>
+
+    <div class="project-cell">
+      <a href="https://front-end-rickandmorty-two.vercel.app/" class="project-link">
+        <img src="https://whitebeartech.com.co/cdn/frontRickandMorty.png" alt="rickandmorty" class="project-image" width="250">
+        <p>rickandmorty</p>
+      </a>
+    </div>
+  </div>
+
+
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; max-height: 4*60px;">
 <h1 align="center">¿Tecnologías y herramientas que uso ?</h1>
@@ -36,9 +102,7 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60"/> </a>  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> </p>
 </div>
 
-<h1>Proyectos Destacados</h1>
-<div> [<img src="https://whitebeartech.com.co/cdn/educastream.png" alt="educaStream" width="250">](https://educastream.vercel.app/) | [<img src="https://whitebeartech.com.co/cdn/videogamesApp.jpg" alt="videoGamesApp" width="250">](https://frontend-videogames.vercel.app/) | [<img src="https://whitebeartech.com.co/cdn/frontRickandMorty.png" alt="rickandmorty" width="250">](https://front-end-rickandmorty-two.vercel.app/) 
-</div>
+
 
 
 
