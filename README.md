@@ -20,7 +20,7 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
 
 
 <h1 style="text-align: center; color: #333;">Proyectos Destacados</h1>
-
+<div align="center">
 <table style="width: 100%; margin-top: 20px; text-align: center;">
   <thead>
     <tr>
@@ -55,7 +55,7 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
     </tr>
   </tbody>
 </table>
-
+</div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; max-height: 4*60px;">
 <h1 align="center">¿Tecnologías y herramientas que uso ?</h1>
