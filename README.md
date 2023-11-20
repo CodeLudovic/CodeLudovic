@@ -37,19 +37,19 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
   </thead>
   <tbody>
     <tr align="center">
-      <td>
+      <td align="center">
         <a href="https://educastream.vercel.app/" style="color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
-          educaStream
+          EducaStream
         </a>
-      </td>
-      <td>
+      </td >
+      <td align="center">
         <a href="https://frontend-videogames.vercel.app/" style="color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
-          videoGamesApp
+          VideoGamesApp
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://front-end-rickandmorty-two.vercel.app/" style="color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
-          rickandmorty
+          Rick and Morty App
         </a>
       </td>
     </tr>
