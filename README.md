@@ -26,21 +26,21 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
 
 <div style="text-align: center; background-color: #fff; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
       <a href="https://educastream.vercel.app/" style="text-decoration: none; color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
-        <img src="https://whitebeartech.com.co/cdn/educastream.png" alt="educaStream" style="max-width: 80%; border-radius: 6px;">
+        <img src="https://whitebeartech.com.co/cdn/educastream.png" alt="educaStream" style="width: 250px; border-radius: 6px;">
         <p style="margin: 10px 0 0;">educaStream</p>
       </a>
     </div>
 
 <div style="text-align: center; background-color: #fff; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
       <a href="https://frontend-videogames.vercel.app/" style="text-decoration: none; color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
-        <img src="https://whitebeartech.com.co/cdn/videogamesApp.jpg" alt="videoGamesApp" style="max-width: 80%; border-radius: 6px;">
+        <img src="https://whitebeartech.com.co/cdn/videogamesApp.jpg" alt="videoGamesApp" style="width: 250px; border-radius: 6px;">
         <p style="margin: 10px 0 0;">videoGamesApp</p>
       </a>
  </div>
 
 <div style="text-align: center; background-color: #fff; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
       <a href="https://front-end-rickandmorty-two.vercel.app/" style="text-decoration: none; color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
-        <img src="https://whitebeartech.com.co/cdn/frontRickandMorty.png" alt="rickandmorty" style="max-width: 80%; border-radius: 6px;">
+        <img src="https://whitebeartech.com.co/cdn/frontRickandMorty.png" alt="rickandmorty" style="width: 250px; border-radius: 6px;">
         <p style="margin: 10px 0 0;">rickandmorty</p>
       </a>
     </div>
