@@ -19,7 +19,7 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
 <h3 align="center" style='font-size:'15px'>📫: danielospinar@gmail.com</h3> 
 
 
-<h1 style="text-align: center; color: #333;">Proyectos Destacados</h1>
+<h1 style="text-align: center; color: #333;">🌟Proyectos Destacados</h1>
 <div align="center">
 <table style="width: 100%; margin-top: 20px; text-align: center;">
   <thead>
