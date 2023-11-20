@@ -21,7 +21,7 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
 
 <h1 style="text-align: center; color: #333;">Proyectos Destacados</h1>
 
-<table style="width: 100%; margin-top: 20px;">
+<table style="width: 100%; margin-top: 20px; text-align: center;">
   <thead>
     <tr>
       <th>
@@ -38,17 +38,17 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
   <tbody>
     <tr>
       <td>
-        <a href="https://educastream.vercel.app/" style="text-decoration: none; color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
+        <a href="https://educastream.vercel.app/" style="color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
           educaStream
         </a>
       </td>
       <td>
-        <a href="https://frontend-videogames.vercel.app/" style="text-decoration: none; color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
+        <a href="https://frontend-videogames.vercel.app/" style="color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
           videoGamesApp
         </a>
       </td>
       <td>
-        <a href="https://front-end-rickandmorty-two.vercel.app/" style="text-decoration: none; color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
+        <a href="https://front-end-rickandmorty-two.vercel.app/" style="color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
           rickandmorty
         </a>
       </td>
