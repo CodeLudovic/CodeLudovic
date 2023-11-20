@@ -36,11 +36,15 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60"/> </a>  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> </p>
 </div>
 
+<h1>Proyectos Destacados</h1>
+| [<img src="https://whitebeartech.com.co/cdn/educastream.png" alt="educaStream" width="250">](https://educastream.vercel.app/) | [<img src="https://whitebeartech.com.co/cdn/videogamesApp.jpg" alt="videoGamesApp" width="250">](https://frontend-videogames.vercel.app/) | [<img src="https://whitebeartech.com.co/cdn/frontRickandMorty.png" alt="rickandmorty" width="250">](https://front-end-rickandmorty-two.vercel.app/) |
+|---|---|---|
+
+
+
 <h1 align="center" style="text-decoration:none">Conectate conmigo!:</h1>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;">
 <a href="https://linkedin.com/in/danielor92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielor92" height="30" width="60" /></a>
 <a href="https://discord.gg/users/349603976921513985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="349603976921513985" height="30" width="60"/></a>
 </p>
 
-
-<h1 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codeludovic&show_icons=true&locale=en&layout=compact" alt="codeludovic" /></h1>
