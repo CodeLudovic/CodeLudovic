@@ -36,7 +36,7 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr align="center">
       <td>
         <a href="https://educastream.vercel.app/" style="color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
           educaStream
