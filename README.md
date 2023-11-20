@@ -17,67 +17,29 @@ Si alguna vez te preguntas cómo equilibro esta dualidad de programador intrépi
 Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de desarrollo, ¡no dudes en buscarme! Juntos podemos conquistar el mundo real y el mundo virtual, un debug a la vez. 🚀😄
 
 <h3 align="center" style='font-size:'15px'>📫: danielospinar@gmail.com</h3> 
-<style>
-    body {
-      font-family: 'Arial', sans-serif;
-      background-color: #f8f8f8;
-      padding: 20px;
-    }
 
-    h1 {
-      text-align: center;
-      color: #333;
-    }
+<h1 style="text-align: center; color: #333;">Proyectos Destacados</h1>
 
-    .project-table {
-      display: flex;
-      justify-content: space-around;
-      margin-top: 20px;
-    }
+  <div style="display: flex; justify-content: space-around; margin-top: 20px;">
 
-    .project-cell {
-      text-align: center;
-      background-color: #fff;
-      border-radius: 8px;
-      padding: 15px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    .project-image {
-      max-width: 100%;
-      border-radius: 6px;
-    }
-
-    .project-link {
-      display: block;
-      margin-top: 10px;
-      text-decoration: none;
-      color: #333;
-      font-weight: bold;
-    }
-  </style>
-
-  <h1>Proyectos Destacados</h1>
-
-  <div class="project-table">
-    <div class="project-cell">
-      <a href="https://educastream.vercel.app/" class="project-link">
-        <img src="https://whitebeartech.com.co/cdn/educastream.png" alt="educaStream" class="project-image" width="250">
-        <p>educaStream</p>
+    <div style="text-align: center; background-color: #fff; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+      <a href="https://educastream.vercel.app/" style="text-decoration: none; color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
+        <img src="https://whitebeartech.com.co/cdn/educastream.png" alt="educaStream" style="max-width: 100%; border-radius: 6px;">
+        <p style="margin: 10px 0 0;">educaStream</p>
       </a>
     </div>
 
-    <div class="project-cell">
-      <a href="https://frontend-videogames.vercel.app/" class="project-link">
-        <img src="https://whitebeartech.com.co/cdn/videogamesApp.jpg" alt="videoGamesApp" class="project-image" width="250">
-        <p>videoGamesApp</p>
+    <div style="text-align: center; background-color: #fff; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+      <a href="https://frontend-videogames.vercel.app/" style="text-decoration: none; color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
+        <img src="https://whitebeartech.com.co/cdn/videogamesApp.jpg" alt="videoGamesApp" style="max-width: 100%; border-radius: 6px;">
+        <p style="margin: 10px 0 0;">videoGamesApp</p>
       </a>
     </div>
 
-    <div class="project-cell">
-      <a href="https://front-end-rickandmorty-two.vercel.app/" class="project-link">
-        <img src="https://whitebeartech.com.co/cdn/frontRickandMorty.png" alt="rickandmorty" class="project-image" width="250">
-        <p>rickandmorty</p>
+    <div style="text-align: center; background-color: #fff; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+      <a href="https://front-end-rickandmorty-two.vercel.app/" style="text-decoration: none; color: #333; font-weight: bold; display: block; margin-bottom: 10px;">
+        <img src="https://whitebeartech.com.co/cdn/frontRickandMorty.png" alt="rickandmorty" style="max-width: 100%; border-radius: 6px;">
+        <p style="margin: 10px 0 0;">rickandmorty</p>
       </a>
     </div>
   </div>
