@@ -37,8 +37,8 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
 </div>
 
 <h1>Proyectos Destacados</h1>
-| [<img src="https://whitebeartech.com.co/cdn/educastream.png" alt="educaStream" width="250">](https://educastream.vercel.app/) | [<img src="https://whitebeartech.com.co/cdn/videogamesApp.jpg" alt="videoGamesApp" width="250">](https://frontend-videogames.vercel.app/) | [<img src="https://whitebeartech.com.co/cdn/frontRickandMorty.png" alt="rickandmorty" width="250">](https://front-end-rickandmorty-two.vercel.app/) |
-|---|---|---|
+<div> [<img src="https://whitebeartech.com.co/cdn/educastream.png" alt="educaStream" width="250">](https://educastream.vercel.app/) | [<img src="https://whitebeartech.com.co/cdn/videogamesApp.jpg" alt="videoGamesApp" width="250">](https://frontend-videogames.vercel.app/) | [<img src="https://whitebeartech.com.co/cdn/frontRickandMorty.png" alt="rickandmorty" width="250">](https://front-end-rickandmorty-two.vercel.app/) 
+</div>
 
 
 
