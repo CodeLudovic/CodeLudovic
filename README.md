@@ -18,7 +18,7 @@ Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de des
 
 <h1 style="text-decoration:none">✅ Contacto :</h1> 
 
-<div align="center" style="text-align:center"> 
+<div align="center" style="display: flex ;text-align:center"> 
 <h4 align="center" style="font-size:15px; text-align:left">📫: danielospinar@gmail.com</h4>
 <h4 align="center" style='font-size:15px; text-align:left'><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="15px"/>: <a href="https://linkedin.com/in/codeludovic" target="blank" style="text-decoration: none; color: inherit; cursor: pointer;">linkedin.com/in/codeludovic/</a></h4> 
 <h4 align="center" style='font-size:15px; text-align:left'>💼: https://codeludovic.vercel.app/ </h4>
