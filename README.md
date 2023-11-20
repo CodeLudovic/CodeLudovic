@@ -17,7 +17,7 @@ Si alguna vez te preguntas cómo equilibro esta dualidad de programador intrépi
 Así que, si alguna vez necesitas un compañero de mazmorras o un consejo de desarrollo, ¡no dudes en buscarme! Juntos podemos conquistar el mundo real y el mundo virtual, un debug a la vez. 🚀😄
 
 <h4 align="center" style='font-size:'15px'>📫: danielospinar@gmail.com</h4>
-<h4 align="center" style='font-size:'15px'><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>: CodeLudovic</h4> 
+<h4 align="center" style='font-size:'15px'><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width='40px' />: CodeLudovic</h4> 
 
 
 <h1 style="text-align: center; color: #333;">🌟Proyectos Destacados</h1>
